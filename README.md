@@ -1,5 +1,5 @@
 # Transport Fever 3 Town Frequency patch
-Patch the base.json file to change the towns frequency values in a new game.
+Patch the `difficulty_util.tl` file in `base.zip` to change the towns frequency values in a new game.
 
 This patch was (obviously) written with claude (or any other llm for that matter). Research is my own. 
 
